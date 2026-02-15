@@ -6,7 +6,7 @@
 
 ## 👨‍🔧 About
 Repository documenting my journey in **Industrial Automation**.
-Focusing on structured programming (ST), state machines, and HMI design consistent with industry standards (ISA-88/PackML concepts).
+Focusing on structured programming (ST), sequential logic (State Machines), and HMI design.
 
 ## 📂 Projects Roadmap
 
