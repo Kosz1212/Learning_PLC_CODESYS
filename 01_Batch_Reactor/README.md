@@ -1,5 +1,7 @@
 # 🏭 Batch Reactor Control System
 
+![Podgląd Działania](Batch_Reactor_Preview.gif)
+
 ## 📋 Project Overview
 A simulation of a chemical batch reactor control system implemented in **CODESYS V3.5** using **Structured Text (ST)**.
 The project simulates physical process dynamics (heating, cooling logic) and features a priority-based safety system.
